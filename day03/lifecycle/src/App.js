@@ -37,5 +37,9 @@ function App() {
     </div>
   );
 }
-
+/* 
+  Create API calls
+  React router
+  React redux
+*/
 export default App;

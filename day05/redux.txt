@@ -1,0 +1,9 @@
+Redux
+{
+    name: Nishat,
+    age: 22,
+    dob: 31/12/97
+}
+Store - Global data store
+Actions -> Perform an action on Store (Command dispatch) e.g ADD_PRODUCT, action.type mandatory
+Reducer -> How to modify/query the store, e.g. products: [...oldProducts, newProduct]

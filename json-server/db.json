@@ -1,0 +1,76 @@
+{
+    "products-recommendation": [
+        {
+            "id": 1,
+            "name": "Apple Iphone 13",
+            "oldPrice": 1099,
+            "price": 999
+        },
+        {
+            "id": 2,
+            "name": "Samsung Galaxy Fold",
+            "oldPrice": 2099,
+            "price": 2000
+        },
+        {
+            "id": 3,
+            "name": "Redmi note 11",
+            "oldPrice": 699,
+            "price": 499
+        },
+        {
+            "id": 4,
+            "name": "Macbook Air M1",
+            "oldPrice": 899,
+            "price": 799
+        },
+        {
+            "id": 5,
+            "name": "ASUS ROG Strix",
+            "oldPrice": 999,
+            "price": 699
+        }
+    ],
+    "product-detail": [
+        {
+            "id": 1,
+            "name": "Apple Iphone 13",
+            "oldPrice": 1099,
+            "price": 999,
+            "desc": "Overpriced underfeatured phone"
+        },
+        {
+            "id": 2,
+            "name": "Samsung Galaxy Fold",
+            "oldPrice": 2099,
+            "price": 2000,
+            "desc": "Something new"
+        },
+        {
+            "id": 3,
+            "name": "Redmi note 11",
+            "oldPrice": 699,
+            "price": 499,
+            "desc": "Affordable"
+        },
+        {
+            "id": 4,
+            "name": "Macbook Air M1",
+            "oldPrice": 899,
+            "price": 799,
+            "desc": "Can write code"
+        },
+        {
+            "id": 5,
+            "name": "ASUS ROG Strix",
+            "oldPrice": 999,
+            "price": 699,
+            "desc": "Good for gaming"
+        }
+    ],
+    "user": [{
+        "username": "nishat",
+        "password": "123456",
+        "token": "eypa;lhfoeaihfaoihefoaihef"
+    }]
+}
